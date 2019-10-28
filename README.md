@@ -1,1 +1,1 @@
-# sophomore-project-1
+# Sophomore-Project-1

@@ -3,8 +3,6 @@ PROJECT #1
 SOPHOMORE DESIGN
 BINGHAMTON UNIVERSITY
 
-Author: Anthony Torres
-
 */
 
 #include <stdint.h>
